@@ -61,7 +61,7 @@ VALUES (
         'Sales Representative',
         60000,
         5
-    )
+    );
 
 INSERT INTO
     employee (
@@ -121,7 +121,7 @@ INSERT INTO
         role_id,
         manager_id
     )
-VALUES (6, 'Julia', 'Garcia', 5, NULL);
+VALUES (6, 'Eva', 'Garcia', 5, NULL);
 
 INSERT INTO
     employee (
